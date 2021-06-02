@@ -1,1 +1,1 @@
-Hello from Master Sidevim .git/hooks/post-commit
+Hello from Master Side!!
